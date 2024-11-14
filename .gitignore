@@ -1,0 +1,4 @@
+/__pycache__
+/venv
+/credentials.py
+/gcp_credential.json
